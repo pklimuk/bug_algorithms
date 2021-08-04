@@ -1,2 +1,3 @@
-# Program zawiera implementację trzech algorytmów Bug(Bug1, Alg1, Rev1)
-## Szczegółowa dokumentacja zanjduje się w pliku `Dokumentacja.pdf`
+# The program contains an implementation of three Bug algorithms(Bug1, Alg1, Rev1)
+
+## Detailed documentation in polish is available in the file `Dokumentacja.pdf`
